@@ -1,0 +1,12 @@
+#set1 {
+    text-align: left;
+}
+#set2 {
+    text-align: right;
+}
+body {
+    text-align: center;
+}
+#resetb {
+    display: none;
+}
